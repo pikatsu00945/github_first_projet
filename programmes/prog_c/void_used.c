@@ -20,5 +20,7 @@ int main (int agrc, char** argv) {
     // *(int*) renvoie la valeur du pointeur et non son adresse. (int*) renvoie plutôt l'adresse
     printf("\nFin\n");
 
+    // petite modification
+
     return 0;
 }
